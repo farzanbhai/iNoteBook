@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/farzanbhai/iNoteBook/static/css/main.87ab02da.css",
+    "main.js": "/farzanbhai/iNoteBook/static/js/main.9c9ab361.js",
+    "index.html": "/farzanbhai/iNoteBook/index.html",
+    "main.87ab02da.css.map": "/farzanbhai/iNoteBook/static/css/main.87ab02da.css.map",
+    "main.9c9ab361.js.map": "/farzanbhai/iNoteBook/static/js/main.9c9ab361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ab02da.css",
+    "static/js/main.9c9ab361.js"
+  ]
+}
